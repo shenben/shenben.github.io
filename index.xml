@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic on Academic</title>
+    <link>https://shenben.github.io/index.xml</link>
+    <description>.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2022 Xingguo Pang</copyright>
+    <lastBuildDate>Sat, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1</title>
+      <link>2</link>
+      <pubDate>3</pubDate>
+      <guid>4</guid>
+      <description>5</description>
+    </item>
+
+    
+  </channel>
+</rss>
